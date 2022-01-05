@@ -1,0 +1,39 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+    }
+    .Orange{
+        font-size: 150px;
+        color:green
+    }
+
+    h2 {
+        font-size: 100px;
+    }
+    section{
+      display:flex;  
+    }
+    .sec01{
+        width: 500%;
+        padding-left: 5%;
+        margin: 0%;
+           
+    }
+    .sec01 img{
+        width: 70%;
+        margin: 5%;
+    }
+    .para01{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 60px;
+    }
+    .link01{
+        font-size: 60px;
+        text-decoration:burlywood;
+        text-decoration-color:maroon ;
+        background-color: indianred; 
+        padding:10px 40px;
+        color:black;
+        font-weight: 700;
+        border-radius: 5%;
+    }
