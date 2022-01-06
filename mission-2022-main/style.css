@@ -3,32 +3,35 @@ body {
     margin: 0%;
     }
     .Orange{
-        font-size: 150px;
+        font-size: 50px;
         color:green
     }
 
     h2 {
-        font-size: 100px;
+        font-size: 32px;
     }
-    section{
+    .section01{
       display:flex;  
+      margin-bottom: 10%;
     }
     .sec01{
-        width: 500%;
-        padding-left: 5%;
-        margin: 0%;
+        width: 200%;
+        padding-left: 0%;
+        margin: 5%;
            
     }
-    .sec01 img{
-        width: 70%;
-        margin: 5%;
+    .img01{
+        width: 100%;
+        padding-right: 5%;
+       
+        
     }
     .para01{
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: 60px;
+        font-size: 30px;
     }
     .link01{
-        font-size: 60px;
+        font-size: 30px;
         text-decoration:burlywood;
         text-decoration-color:maroon ;
         background-color: indianred; 
@@ -37,3 +40,39 @@ body {
         font-weight: 700;
         border-radius: 5%;
     }
+    .section02{
+        display: flex;
+    }
+   .sec02{
+    font: size 1500px;
+    margin-left: 5%;
+   }
+   .section03{
+    display: flex;   
+   }
+
+   .style01
+   {
+    background-color:lightcyan;
+    border-radius: 5%;    
+   }
+   .style02{
+    background-color:lightpink;
+    border-radius: 5%; 
+   }
+   .style03{
+    background-color:lightgoldenrodyellow;
+    border-radius: 5%; 
+   }
+   .section04{
+    display: flex;
+    margin-top: 5%;
+   }
+.img02{
+    width: 20%;
+    padding-left: 5%;
+    }
+.green{
+    font-size: 50px;
+    color:green
+}
